@@ -93,6 +93,7 @@
  *  @see Net2-WG
  */
 
+/*just test*/
 generic module CtpRoutingEngineP(uint8_t routingTableSize, uint32_t minInterval, uint32_t maxInterval) {
     provides {
         interface UnicastNameFreeRouting as Routing;
